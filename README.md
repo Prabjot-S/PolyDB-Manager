@@ -46,4 +46,4 @@ Developed at NYIT ETIC Lab.
 ## Installation
 1. Clone the repository
 2. Update database credentials
-3. Run the application: `./mvnw javafx:run`
+3. Run the application
