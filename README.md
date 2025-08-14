@@ -10,7 +10,7 @@ A JavaFX application for managing multiple database systems (PostgreSQL, MySQL, 
 
 
 
-Developed at the NYIT ETIC Lab.
+Developed at NYIT ETIC Lab.
 
 ![Application Screenshot](https://github.com/user-attachments/assets/20f0ad61-dd38-4219-90d5-ec2872bbae8d)
 
