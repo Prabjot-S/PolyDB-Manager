@@ -7,6 +7,8 @@
 
 A JavaFX application for managing multiple database systems (PostgreSQL, MySQL, Oracle) through a unified interface. This tool simplifies database administration for developers, students, and educators by eliminating the need for separate database clients.
 
+Collaborated with Vraj Patel
+
 
 
 
